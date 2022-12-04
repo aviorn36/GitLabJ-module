@@ -1,0 +1,14 @@
+git:
+  server:
+    url: ${GIT_SERVER_URL}
+    token: ${GIT_SERVER_TOKEN}
+    repo: ${GIT_SERVER_REPO}
+    branch: ${GIT_SERVER_BRANCH}
+
+application:
+  flow:
+    configRootPath: ${CONFIG_ROOT_PATH}
+    hookSecretToken: ${HOOK_SECRET_TOKEN}
+
+server:
+  port: ${SERVER_PORT}
