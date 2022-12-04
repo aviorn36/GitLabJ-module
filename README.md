@@ -9,7 +9,9 @@ How to sync any repo in gitLab with this module.
 
 Locally : Pass in environment variables (as mentioned below) and run locally.
 
-DockerImage : Build docker image and run with environment variables (as mentioned below).
+DockerImage : Build docker image and run with environment variables (as mentioned below).\
+
+(or use this to pull image : docker pull aviorn36/gitsyncmodule)
 
 Docker command :
 docker run -d \ 
