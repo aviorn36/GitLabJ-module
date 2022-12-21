@@ -1,4 +1,4 @@
-# GitLabJ-module
+# GitLabJ-module (https://hub.docker.com/r/aviorn36/gitsyncmodule)
 This modules can be integrated with your application to provide runtime-synchronization of config-files
 
 Functionality:
