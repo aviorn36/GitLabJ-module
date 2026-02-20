@@ -32,3 +32,4 @@ Note :
 3. gitlab_private_token generated in gitLab token settings.
 4. application_config_root_folder is the root folder at the application side where the files/folders of repository would be saved in.
 5. Web-hook to application EP "/reloadDynamicFlowConfigurationV2" with merge/push event can be configured at git lab.
+Use can also use docker to set this up "docker pull aviorn36/gitsyncmodule"
